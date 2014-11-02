@@ -1,0 +1,430 @@
+<HTML>
+<HEAD>
+<BASE TARGET="_top">
+<TITLE>Patent Database Search Results: an/IBM and abst/data in US Patent Collection</TITLE>
+<script language="javascript">
+function unesc(){
+   srchForm.Srch1.value = unescape(srchForm.Srch1.value);
+   srchForm.Srch2.value = unescape(srchForm.Srch2.value);
+}
+function unesc2(){
+   srchForm2.Srch1.value = unescape(srchForm2.Srch1.value);
+   srchForm2.Srch2.value = unescape(srchForm2.Srch2.value);
+}
+</script>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<IMG SRC="/netaicon/PTO/patfthdr.gif" alt="[US Patent & Trademark Office, Patent Full Text and Image Database]">
+<br>
+<a name="top">
+<table>
+<tr><td>
+<a href="http://www.uspto.gov/patft/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0"></a>
+<a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0"></a>
+<A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0"></A>
+<a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0"></a>
+<A HREF="http://www.uspto.gov/patft/help/help.htm"><IMG BORDER="0"SRC="/netaicon/PTO/help.gif" ALT="[Help]"></A>
+</td></tr>
+</table>
+<A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=2&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&Page=Next&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<a href="#bottom"><img src="/netaicon/PTO/bottom.gif" alt="[Bottom]" align=middle border="0"></a>
+<A HREF="http://ebiz1.uspto.gov/vision-service/ShoppingCart_P/ShowShoppingCart?backUrl1=http%3A//patft1.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26p%3D1%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26f%3DS%26l%3D50%26d%3DPTXT%26Query%3Dan%252FIBM%252Band%252Babst%252Fdata&backLabel1=Back%20to%20Document%3A%20an/IBM and abst/data"><img src="/netaicon/PTO/cart.gif" align=middle border=0 alt="[View Shop
+ping Cart]"></A>
+</center>
+<p>
+<i>Searching US Patent Collection...</i><BR></p>
+<B>Results of Search in US Patent Collection db for:<BR> (AN/IBM AND ABST/data)</B>: 140 patents.
+<BR><I>Hits <strong>1</strong> through <strong>50
+</strong> out of <strong>140</strong>
+</I><p>
+
+<BR>
+<form name="srchForm" action="/netacgi/nph-Parser" method="GET" onsubmit="unesc()">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="OS" VALUE="an/IBM and abst/data">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(AN/IBM AND ABST/data)">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE="an/IBM and abst/data">
+
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="140">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="(IBM.ASNM. AND data.ABTX.)">
+<INPUT TYPE=submit NAME=NextList2 VALUE="Next 50 Hits"><BR><BR>
+</FORM>
+<form name="srchForm2" action="/netacgi/nph-Parser" method="GET" onsubmit="unesc2()">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(AN/IBM AND ABST/data)">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE="an/IBM and abst/data">
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="140">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="(IBM.ASNM. AND data.ABTX.)">
+
+<INPUT TYPE=hidden name=StartAt VALUE="Jump To">
+<INPUT TYPE=submit name=StartAt VALUE="Jump To">
+&nbsp;
+<INPUT size=6 name="StartNum">
+</form>
+<BR><BR>
+<form action="/netacgi/nph-Parser" method="GET">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(AN/IBM AND ABST/data)">
+<INPUT type="hidden" name="Refine" value="Refine Search">
+<INPUT type="submit" name="Refine" value="Refine Search">
+<INPUT size=50 name="Query" value="an/IBM and abst/data">
+</FORM>
+<TABLE><TR><TD></TD><TD>PAT. NO.</TD><TD></TD><TD>Title</TD></TR>
+<TR><TD valign=top>1</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>7,593,947</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>System, method and program for grouping data update requests for efficient
+     processing
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>2</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>7,490,141</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>Ajax proxy indirection for external domain requests
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>3</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=3&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>7,318,194</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=3&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>Methods and apparatus for representing markup language data
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>4</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>7,231,501</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>Method for avoiding aliased tokens during abnormal communications
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>5</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=5&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,941,325</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=5&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Multimedia archive description scheme
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>6</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=6&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,876,557</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=6&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Unified SRAM cache system for an embedded DRAM system having a micro-cell
+     architecture
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>7</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=7&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,714,476</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=7&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Memory array with dual wordline operation
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>8</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=8&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,675,130</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=8&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> System and method of using a plurality of sensors for determining an
+     individual's level of productivity
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>9</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=9&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,654,414</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=9&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Video conferencing using camera environment panoramas
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>10</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=10&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,634,001</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=10&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Remote monitoring of computer programs
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>11</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=11&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,614,714</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=11&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Semiconductor memory system having a data clock system for reliable
+     high-speed data transfers
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>12</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=12&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,611,678</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=12&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Device and method for trainable radio scanning
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>13</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=13&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,601,093</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=13&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Address resolution in ad-hoc networking
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>14</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=14&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,545,935</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=14&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Dual-port DRAM architecture system
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>15</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=15&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,542,973</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=15&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Integrated redundancy architecture system for an embedded DRAM
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>16</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=16&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,540,674</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=16&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> System and method for supervising people with mental disorders
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>17</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=17&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,539,434</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=17&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> UOWE's retry process in shared queues environment
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>18</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=18&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,531,911</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=18&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Low-power band-gap reference and temperature sensor circuit
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>19</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=19&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,523,040</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=19&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Method and apparatus for dynamic and flexible table summarization
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>20</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=20&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,507,237</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=20&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Low-power DC voltage generator system
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>21</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=21&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,453,321</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=21&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Structured cache for persistent objects
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>22</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=22&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,445,626</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=22&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Column redundancy architecture system for an embedded DRAM
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>23</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=23&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,307,883</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=23&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Apparatus, method and system for wireless communication
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>24</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=24&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,256,628</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=24&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Data charting
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>25</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=25&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,182,123</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=25&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Interactive computer network and method of operation
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>26</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=26&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,161,104</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=26&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Methods and apparatus for high-speed access to and sharing of storage
+     devices on a networked digital data processing system
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>27</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>6,044,488</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Process for generating a check word for a bit sequence for verifying the
+     integrity and authenticity of the bit sequence
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>28</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=28&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,996,057</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=28&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Data processing system and method of permutation with replication within
+     a vector register file
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>29</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=29&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,949,058</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=29&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Recording medium holder, recording medium processing apparatus, and
+     card-type recording medium feeding method
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>30</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=30&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,880,447</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=30&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Data output controller and data output system using this output
+     controller
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>31</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=31&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,869,824</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=31&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Data output controller
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>32</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=32&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,822,763</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=32&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Cache coherence protocol for reducing the effects of false sharing in
+     non-bus-based shared-memory multiprocessors
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>33</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=33&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,808,620</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=33&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> System and method for displaying shadows by dividing surfaces by
+     occlusion into umbra penumbra, and illuminated regions from
+     discontinuity edges and generating mesh
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>34</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=34&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,802,388</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=34&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> System and method for correction and confirmation dialog for hand
+     printed character input to a data processing system
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>35</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=35&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,787,472</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=35&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Disk caching system for selectively providing interval caching or
+     segment caching of vided data
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>36</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=36&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,771,010</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=36&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Apparatus for compressing data using a Lempel-Ziv-type algorithm
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>37</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=37&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,768,279</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=37&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Broad band transmission system
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>38</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=38&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,734,893</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=38&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Progressive content-based retrieval of image and video with adaptive and
+     iterative refinement
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>39</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=39&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,664,215</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=39&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Data processor with an execution unit for performing load instructions
+     and method of operation
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>40</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=40&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,652,866</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=40&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Collaborative working method and system for a telephone to interface
+     with a collaborative working application
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>41</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=41&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,649,105</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=41&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Collaborative working in a network
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>42</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=42&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,642,359</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=42&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Multiplexing device for a redundant channel bus
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>43</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=43&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,640,330</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=43&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Method for analyzing pH titration data
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>44</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=44&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,634,015</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=44&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Generic high bandwidth adapter providing data communications between
+     diverse communication networks and computer system
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>45</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=45&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,610,821</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=45&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Optimal and stable route planning system
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>46</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=46&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,604,879</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=46&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Single array address translator with segment and page invalidate ability
+     and method of operation
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>47</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=47&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,594,910</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=47&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Interactive computer network and method of operation
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>48</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=48&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,592,683</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=48&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> System for selectively processing nested print commands and buffered
+     post-print commands thereafter and resending selected portion of data
+     stream upon error detection
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>49</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=49&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,586,264</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=49&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> Video optimized media streamer with cache management
+</A></TD>
+<DOCS: 140>
+<TR><TD valign=top>50</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=50&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)>5,577,211</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=50&f=G&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)> System and method using chained structure queues for ordering of message
+     delivery between connected nodes wherein unsuccessful message portion
+     is skipped and retried
+</A></TD>
+</TABLE><HR><br>
+<center>
+<table>
+<tr><td><A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=2&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&S1=(IBM.ASNM.+AND+data.ABTX.)&Page=Next&OS=an/IBM+and+abst/data&RS=(AN/IBM+AND+ABST/data)><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<a name="bottom"><a href="#top"><img src="/netaicon/PTO/top.gif" alt="[Top]" border="0" align=middle></a>
+<A HREF="http://ebiz1.uspto.gov/vision-service/ShoppingCart_P/ShowShoppingCart?backUrl1=http%3A//patft1.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26p%3D1%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26f%3DS%26l%3D50%26d%3DPTXT%26Query%3Dan%252FIBM%252Band%252Babst%252Fdata&backLabel1=Back%20to%20Document%3A%20an/IBM and abst/data"><img border=0 src="/netaicon/PTO/cart.gif" alt="[View Shopping Cart]" b
+order = "0" align=middle></A>
+</td></tr>
+</table>
+<a href="http://www.uspto.gov/patft/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign=baseline></a>
+<a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign=baseline></a>
+<A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0" valign=baseline></A>
+<a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign=baseline></a>
+<A HREF="http://www.uspto.gov/patft/help/help.htm"><img border="0" src="/netaicon/PTO/help.gif" ALT="[Help]" border="0" valign=baseline></A>
+<!-- <IMG border=0 src=/netaicon/PTO/titlebar.gif> -->
+</center>
+</HTML>

@@ -1,0 +1,416 @@
+<HTML>
+<HEAD>
+<BASE TARGET="_top">
+<TITLE>Patent Database Search Results: abst/(social and network) and (message or friend or search or associate or shopping) in US Patent Collection</TITLE>
+<script language="javascript">
+function unesc(){
+   srchForm.Srch1.value = unescape(srchForm.Srch1.value);
+   srchForm.Srch2.value = unescape(srchForm.Srch2.value);
+}
+function unesc2(){
+   srchForm2.Srch1.value = unescape(srchForm2.Srch1.value);
+   srchForm2.Srch2.value = unescape(srchForm2.Srch2.value);
+}
+</script>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<IMG SRC="/netaicon/PTO/patfthdr.gif" alt="[US Patent & Trademark Office, Patent Full Text and Image Database]">
+<br>
+<a name="top">
+<table>
+<tr><td>
+<a href="http://www.uspto.gov/patft/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0"></a>
+<a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0"></a>
+<A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0"></A>
+<a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0"></a>
+<A HREF="http://www.uspto.gov/patft/help/help.htm"><IMG BORDER="0"SRC="/netaicon/PTO/help.gif" ALT="[Help]"></A>
+</td></tr>
+</table>
+<A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=2&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&Page=Next&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<a href="#bottom"><img src="/netaicon/PTO/bottom.gif" alt="[Bottom]" align=middle border="0"></a>
+<A HREF="http://ebiz1.uspto.gov/vision-service/ShoppingCart_P/ShowShoppingCart?backUrl1=http%3A//patft1.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26p%3D1%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26f%3DS%26l%3D50%26d%3DPTXT%26Query%3Dabst%252F%2528social%252Band%252Bnetwork%2529%252Band%252B%2528message%252Bor%252Bfriend%252Bor%252Bsearch%252Bor%252Bassociate%252Bor%252Bshopping%2529&backLabel1=Back%20to%20Document%3A%20abst/(social and network) and (message or friend or search or associate or shopping)"><img src="/netaicon/PTO/cart.gif" align=middle border=0 alt="[View Shop
+ping Cart]"></A>
+</center>
+<p>
+<i>Searching US Patent Collection...</i><BR></p>
+<B>Results of Search in US Patent Collection db for:<BR> (ABST/(social AND network) AND ((((message OR friend) OR search) OR associate) OR shopping))</B>: 164 patents.
+<BR><I>Hits <strong>1</strong> through <strong>50
+</strong> out of <strong>164</strong>
+</I><p>
+
+<BR>
+<form name="srchForm" action="/netacgi/nph-Parser" method="GET" onsubmit="unesc()">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="OS" VALUE="abst/(social and network) and (message or friend or search or associate or shopping)">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(ABST/(social AND network) AND ((((message OR friend) OR search) OR associate) OR shopping))">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE="abst/(social and network) and (message or friend or search or associate or shopping)">
+
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="164">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="((social AND network).ABTX. AND ((((message OR friend) OR search) OR associate) OR shopping))">
+<INPUT TYPE=submit NAME=NextList2 VALUE="Next 50 Hits"><BR><BR>
+</FORM>
+<form name="srchForm2" action="/netacgi/nph-Parser" method="GET" onsubmit="unesc2()">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(ABST/(social AND network) AND ((((message OR friend) OR search) OR associate) OR shopping))">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE="abst/(social and network) and (message or friend or search or associate or shopping)">
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="164">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="((social AND network).ABTX. AND ((((message OR friend) OR search) OR associate) OR shopping))">
+
+<INPUT TYPE=hidden name=StartAt VALUE="Jump To">
+<INPUT TYPE=submit name=StartAt VALUE="Jump To">
+&nbsp;
+<INPUT size=6 name="StartNum">
+</form>
+<BR><BR>
+<form action="/netacgi/nph-Parser" method="GET">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(ABST/(social AND network) AND ((((message OR friend) OR search) OR associate) OR shopping))">
+<INPUT type="hidden" name="Refine" value="Refine Search">
+<INPUT type="submit" name="Refine" value="Refine Search">
+<INPUT size=50 name="Query" value="abst/(social and network) and (message or friend or search or associate or shopping)">
+</FORM>
+<TABLE><TR><TD></TD><TD>PAT. NO.</TD><TD></TD><TD>Title</TD></TR>
+<TR><TD valign=top>1</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,974,983</A></TD><TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Website network and advertisement analysis using analytic measurement of
+     online social media content
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>2</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,970,825</A></TD><TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Metasearching a client's request by sending a plurality of queries to a
+     plurality of social networks for displaying different lists on the client
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>3</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=3&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,970,712</A></TD><TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=3&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Displaying strengths of social relationships between a user and other
+     people
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>4</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,970,665</A></TD><TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Method, system, and computer readable medium for outputting offer
+     recommendations from members of a social network
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>5</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=5&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,970,657</A></TD><TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=5&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Giving gifts and displaying assets in a social network environment
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>6</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=6&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,958,193</A></TD><TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=6&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Social network notifications for external updates
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>7</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=7&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,958,192</A></TD><TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=7&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Method for information gathering and dissemination in a social network
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>8</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=8&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,958,120</A></TD><TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=8&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Method and apparatus for distributed community finding
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>9</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=9&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,955,175</A></TD><TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=9&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Role based game play on a social network
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>10</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=10&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,954,058</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=10&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Sharing of content and hop distance over a social network
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>11</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=11&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,949,611</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=11&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Controlling access to profile information in a social network
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>12</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=12&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,945,862</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=12&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Social network site including contact-based recommendation functionality
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>13</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=13&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,945,630</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=13&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Method and system for verifying a recipient of a communication
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>14</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=14&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,945,482</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=14&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Viewing shopping information on a network-based social platform
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>15</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=15&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,945,249</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=15&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Next generation social networking and content rating system and method
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>16</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=16&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,941,535</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=16&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>System for targeting third party content to users based on social networks
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>17</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=17&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,941,388</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=17&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Telecommunications-based social-trust networks
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>18</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=18&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,941,339</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=18&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Method and system for managing customer network value
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>19</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=19&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,936,913</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=19&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Network image review in clinical hematology
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>20</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=20&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,933,916</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=20&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Querying nonSQL data stores with a SQL-style language
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>21</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=21&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,933,843</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=21&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Media-based computational influencer network analysis
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>22</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=22&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,933,810</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=22&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Collectively giving gifts in a social network environment
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>23</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=23&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,930,731</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=23&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Methods, systems and program products for creation of multiple views and
+     optimized communications pathways based on personal descriptors
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>24</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=24&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,925,620</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=24&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Contact information management
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>25</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=25&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,925,592</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=25&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>System and method of using a proxy server to manage lazy content
+     distribution in a social network
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>26</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=26&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,917,154</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=26&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Determining mobile content for a social network based on location and time
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>27</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,904,511</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Personal contact network
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>28</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=28&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,904,461</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=28&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Advertiser and user association
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>29</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=29&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,895,284</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=29&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Social news ranking using gossip distance
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>30</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=30&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,895,208</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=30&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Device, system, and method of creating virtual social networks based on
+     web-extracted features
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>31</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=31&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,895,177</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=31&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Enabling searching of user ratings and reviews using user profile
+     location, and social networks
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>32</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=32&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,890,874</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=32&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Systems and methods for interactively displaying user images
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>33</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=33&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,890,871</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=33&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>System and method for dynamically generating, maintaining, and growing an
+     online social network
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>34</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=34&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,890,501</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=34&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Visual tags for search results generated from social network information
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>35</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=35&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,885,901</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=35&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Method and system for seeding online social network contacts
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>36</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=36&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,882,191</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=36&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Method and system for mapping organizational social networks utilizing
+     dynamically prioritized e-mail flow indicators
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>37</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=37&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,881,975</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=37&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Methods and systems using client-side scripts for review requests
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>38</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=38&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,873,988</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=38&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>System and method for rights propagation and license management in
+     conjunction with distribution of digital content in a social network
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>39</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=39&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,865,592</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=39&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Using semantic networks to develop a social network
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>40</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=40&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,865,551</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=40&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Determining influential/popular participants in a communication network
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>41</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=41&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,860,889</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=41&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Methods and apparatus for redetermining social maps upon expectation of
+     change
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>42</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=42&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,860,525</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=42&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>System, method, and computer program product for service and application
+     configuration in a network device
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>43</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=43&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,856,449</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=43&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Methods and apparatus for determining social relevance in near constant
+     time
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>44</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=44&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,856,411</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=44&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Social network aware pattern detection
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>45</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=45&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,853,881</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=45&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Multi-user on-line real-time virtual social networks based upon
+     communities of interest for entertainment, information or e-commerce
+     purposes
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>46</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=46&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,853,622</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=46&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Video-related recommendations using link structure
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>47</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=47&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,844,604</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=47&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Automatically generating user-customized notifications of changes in a
+     social network system
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>48</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=48&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,840,690</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=48&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Internet portal for managing social websites
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>49</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=49&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,831,684</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=49&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>Social network filtering of search results methods and apparatus
+</A></TD>
+<DOCS: 164>
+<TR><TD valign=top>50</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=50&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>7,827,265</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=50&f=G&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))>System and method for confirming an association in a web-based social
+     network
+</A></TD>
+</TABLE><HR><br>
+<center>
+<table>
+<tr><td><A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=2&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&S1=((social+AND+network).ABTX.+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))&Page=Next&OS=abst/(social+and+network)+and+(message+or+friend+or+search+or+associate+or+shopping)&RS=(ABST/(social+AND+network)+AND+((((message+OR+friend)+OR+search)+OR+associate)+OR+shopping))><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<a name="bottom"><a href="#top"><img src="/netaicon/PTO/top.gif" alt="[Top]" border="0" align=middle></a>
+<A HREF="http://ebiz1.uspto.gov/vision-service/ShoppingCart_P/ShowShoppingCart?backUrl1=http%3A//patft1.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26p%3D1%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26f%3DS%26l%3D50%26d%3DPTXT%26Query%3Dabst%252F%2528social%252Band%252Bnetwork%2529%252Band%252B%2528message%252Bor%252Bfriend%252Bor%252Bsearch%252Bor%252Bassociate%252Bor%252Bshopping%2529&backLabel1=Back%20to%20Document%3A%20abst/(social and network) and (message or friend or search or associate or shopping)"><img border=0 src="/netaicon/PTO/cart.gif" alt="[View Shopping Cart]" b
+order = "0" align=middle></A>
+</td></tr>
+</table>
+<a href="http://www.uspto.gov/patft/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign=baseline></a>
+<a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign=baseline></a>
+<A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0" valign=baseline></A>
+<a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign=baseline></a>
+<A HREF="http://www.uspto.gov/patft/help/help.htm"><img border="0" src="/netaicon/PTO/help.gif" ALT="[Help]" border="0" valign=baseline></A>
+<!-- <IMG border=0 src=/netaicon/PTO/titlebar.gif> -->
+</center>
+</HTML>

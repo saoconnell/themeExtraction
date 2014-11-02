@@ -1,0 +1,7 @@
+TITLE: EXAMPLE1
+an/IBM and abst/data
+an/Facebook
+an/Amazon and abst/data
+an/EMC and abst/virtual and abst/data
+an/NetApp and abst/virtual and abst/data
+an/Hewlett-Packard and abst/data and abst/virtual

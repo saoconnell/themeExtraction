@@ -1,0 +1,48 @@
+
+<HTML>
+<HEAD>
+<TITLE>Patent Database Search Results: abst/iphone in US Patents Text Collection</TITLE>
+</HEAD>
+<BODY>
+<center>
+<IMG SRC="/netaicon/PTO/patfthdr.gif" WIDTH="500" HEIGHT="30">
+</center>
+<center>
+<A HREF="http://www.uspto.gov/patft/help/help.htm">
+<IMG BORDER="0" WIDTH="80" HEIGHT="30" SRC="/netaicon/PTO/help.gif" ALT="[Help]"></A>
+<a href="http://www.uspto.gov/patft/index.html">
+<img src="/netaicon/PTO/home.gif" alt="[Home]" border="0" width="80" height="30"></a>
+<a href="/netahtml/PTO/search-bool.html">
+<img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" width="80" height="30"></a>
+<A HREF="/netahtml/PTO/search-adv.htm">
+<IMG WIDTH="80" HEIGHT="30" BORDER="0" SRC="/netaicon/PTO/manual.gif" ALT="[Manual]"></A>
+<a href="/netahtml/PTO/srchnum.htm">
+<img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" width="80" height="30"></a>
+<A HREF="http://www.uspto.gov/go/ptcs/">
+<IMG WIDTH="80" HEIGHT="30" BORDER="0" SRC="/netaicon/PTO/copy.gif" ALT="[Order Copy]"></A>
+<A HREF="http://www.uspto.gov/go/ptdl/">
+<IMG width=80 height=30 border=0 SRC="/netaicon/PTO/ptdl.gif" ALT="[PTDLs]"></A>
+</center>
+<i>Searching US Patents Text Collection...</i><BR></p>
+<B>Results of Search in US Patents Text Collection db for:<BR> ABST/iphone</B>: 0 patents.<BR><BR>No patents have matched your query
+<TABLE CELLSPACING=4 CELLPADDING=1>
+<TR>
+<TD VALIGN="TOP" ALIGN="LEFT">
+<form action="/netacgi/nph-Parser" method="GET">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="p" VALUE="1">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+<INPUT type="hidden" name="d" value="PTXT">
+<INPUT type="submit" value="Refine Search">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN=4>
+<INPUT size=50 name="Query" value="abst/iphone">
+</TD>
+</FORM>
+</TR>
+</TABLE>
+</BODY></HTML>

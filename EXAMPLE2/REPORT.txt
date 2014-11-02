@@ -1,0 +1,1700 @@
+
+
+-----------------------------  7979782  --------------------------------
+  PATENT:  7979782 
+  TITLE:   Low complexity blind transport format detection 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     4.805 : process_form_compris_provid_apparatus 
+     4.71 : data_devic_network_includ_comput 
+     1.263 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979782         1    0        0       0      1        0    2     0       0    0
+        includ inform invent method network perform plural process provid
+7979782      0      0      0      1       0       1      0       0      1
+        receiv system wherein
+7979782      0      0       0
+
+
+-----------------------------  7979780  --------------------------------
+  PATENT:  7979780 
+  TITLE:   Error correction encoding apparatus and error correction encoding method 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     4.969 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     10.351 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979780         2    0        0       0      1        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7979780      0      2      0      0       0       1      0       0      0
+        receiv system wherein
+7979780      3      0       1
+
+
+-----------------------------  7979562  --------------------------------
+  PATENT:  7979562 
+  TITLE:   Service level agreements and management thereof 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     5.016 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     8.649 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979562         1    0        0       1      2        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7979562      0      0      0      1       0       1      0       0      1
+        receiv system wherein
+7979562      0      2       0
+
+
+-----------------------------  7979542  --------------------------------
+  PATENT:  7979542 
+  TITLE:   Methods and systems for transaction record delivery using thresholds and 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     6.473 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     33.181 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979542         0    0        2       0      5        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7979542      0      1      1      1       0       1      0       3      2
+        receiv system wherein
+7979542      0      9       0
+
+
+-----------------------------  7979382  --------------------------------
+  PATENT:  7979382 
+  TITLE:   Component based information linking during claim processing 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     25.332 : data_devic_network_includ_comput 
+     17.703 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979382         0    1        0       0      1        0    9     0       0    0
+        includ inform invent method network perform plural process provid
+7979382      5      4      0      0       0       0      1       0      3
+        receiv system wherein
+7979382      1      0       0
+
+
+-----------------------------  7979368  --------------------------------
+  PATENT:  7979368 
+  TITLE:   Systems and methods for processing data flows 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     8.696 : process_form_compris_provid_apparatus 
+     32.694 : data_devic_network_includ_comput 
+     15.027 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979368         0    2        0       0      6        0    4     0       0    0
+        includ inform invent method network perform plural process provid
+7979368      3      0      0      0       7       0      0       6      2
+        receiv system wherein
+7979368      0      4       0
+
+
+-----------------------------  7979215  --------------------------------
+  PATENT:  7979215 
+  TITLE:   Methods and systems for evaluating CGH candidate probe nucleic acid 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     3.166 : data_devic_network_includ_comput 
+     15.168 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979215         0    0        0       0      1        1    0     0       0    0
+        includ inform invent method network perform plural process provid
+7979215      3      0      1      2       0       0      0       0      2
+        receiv system wherein
+7979215      0      1       0
+
+
+-----------------------------  7979056  --------------------------------
+  PATENT:  7979056 
+  TITLE:   Systems methods and computer-readable media for providing information 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     8.562 : data_devic_network_includ_comput 
+     28.273 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979056         0    0        4       0      1        0    0     4       1    0
+        includ inform invent method network perform plural process provid
+7979056      1      1      0      2       0       0      0       0      5
+        receiv system wherein
+7979056      2      1       0
+
+
+-----------------------------  7978726  --------------------------------
+  PATENT:  7978726 
+  TITLE:   Local area network of serial intelligent cells 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     21.879 : data_devic_network_includ_comput 
+     11.025 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978726         0    0        2       0      2        2    1     1       0    0
+        includ inform invent method network perform plural process provid
+7978726      1      0      1      0       6       0      1       0      0
+        receiv system wherein
+7978726      0      2       0
+
+
+-----------------------------  7978708  --------------------------------
+  PATENT:  7978708 
+  TITLE:   Automatic route tagging of BGP next-hop routes in IGP 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     5.178 : process_form_compris_provid_apparatus 
+     7.36 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978708         0    0        0       0      1        1    0     0       0    0
+        includ inform invent method network perform plural process provid
+7978708      0      0      0      0       2       0      0       4      0
+        receiv system wherein
+7978708      0      0       0
+
+
+-----------------------------  7978605  --------------------------------
+  PATENT:  7978605 
+  TITLE:   Methods and apparatus for directory enabled network services 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     5.119 : process_form_compris_provid_apparatus 
+     3.039 : data_devic_network_includ_comput 
+     10.647 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978605         1    1        0       0      1        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7978605      1      1      0      1       1       2      0       0      1
+        receiv system wherein
+7978605      0      2       0
+
+
+-----------------------------  7978564  --------------------------------
+  PATENT:  7978564 
+  TITLE:   Interactive medication container 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     19.74 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978564         0    0        1       0      2        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7978564      1      6      1      0       0       0      0       0      0
+        receiv system wherein
+7978564      1      0       0
+
+
+-----------------------------  7978059  --------------------------------
+  PATENT:  7978059 
+  TITLE:   System and method for monitoring and controlling remote devices 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     13.173 : data_devic_network_includ_comput 
+     27.3 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978059         0    0        0       0      3        1    2     0       0    0
+        includ inform invent method network perform plural process provid
+7978059      3      2      1      0       2       0      2       0      0
+        receiv system wherein
+7978059      1      6       1
+
+
+-----------------------------  7977825  --------------------------------
+  PATENT:  7977825 
+  TITLE:   Energy saver 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     12.454 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977825         0    0        0       0      1        0    0     4       0    0
+        includ inform invent method network perform plural process provid
+7977825      1      0      0      0       1       0      0       0      0
+        receiv system wherein
+7977825      0      0       0
+
+
+-----------------------------  7976389  --------------------------------
+  PATENT:  7976389 
+  TITLE:   Method and apparatus for gaming machines with a tournament play bonus 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     9.87 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7976389         0    0        0       0      1        0    0     0       2    0
+        includ inform invent method network perform plural process provid
+7976389      1      0      0      0       0       0      1       0      0
+        receiv system wherein
+7976389      0      1       0
+
+
+-----------------------------  7975306  --------------------------------
+  PATENT:  7975306 
+  TITLE:   Apparatus and method for monitoring secure software 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     2.939 : process_form_compris_provid_apparatus 
+     4.995 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7975306         0    1        0       0      1        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7975306      1      0      0      0       0       2      0       0      0
+        receiv system wherein
+7975306      0      0       0
+
+
+-----------------------------  7975056  --------------------------------
+  PATENT:  7975056 
+  TITLE:   Method for providing a network address 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     6.095 : process_form_compris_provid_apparatus 
+     9.35 : data_devic_network_includ_comput 
+     3.614 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7975056         1    0        0       1      1        0    1     0       0    0
+        includ inform invent method network perform plural process provid
+7975056      1      0      1      1       3       0      0       1      0
+        receiv system wherein
+7975056      0      1       0
+
+
+-----------------------------  7975001  --------------------------------
+  PATENT:  7975001 
+  TITLE:   Bi-directional communication in a parallel processing environment 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     11.482 : process_form_compris_provid_apparatus 
+     23.9 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7975001         0    2        0       0      2        0    0     1       0    0
+        includ inform invent method network perform plural process provid
+7975001      5      0      0      0       0       2      0       5      1
+        receiv system wherein
+7975001      4      0       0
+
+
+-----------------------------  7974931  --------------------------------
+  PATENT:  7974931 
+  TITLE:   Methods for producing transmitting and preventing transmission of content 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     29.61 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7974931         0    1        0       0      3        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7974931      1      4      0      3       0       0      0       0      3
+        receiv system wherein
+7974931      0      3       0
+
+
+-----------------------------  7974849  --------------------------------
+  PATENT:  7974849 
+  TITLE:   Detecting and modeling temporal computer activity patterns 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     3.626 : data_devic_network_includ_comput 
+     8.163 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7974849         0    0        0       0      1        0    2     0       0    0
+        includ inform invent method network perform plural process provid
+7974849      0      2      0      2       0       0      0       0      0
+        receiv system wherein
+7974849      0      0       0
+
+
+-----------------------------  7974661  --------------------------------
+  PATENT:  7974661 
+  TITLE:   Remotely accessing a computing device in a low-power state 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     28.169 : data_devic_network_includ_comput 
+     13.435 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7974661         0    0        1       0      7        0    7     4       0    0
+        includ inform invent method network perform plural process provid
+7974661      0      1      0      0       0       0      0       0      2
+        receiv system wherein
+7974661      2      0       0
+
+
+-----------------------------  7974569  --------------------------------
+  PATENT:  7974569 
+  TITLE:   Method and apparatus for customizing lesson plans 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     6.038 : process_form_compris_provid_apparatus 
+     12.28 : data_devic_network_includ_comput 
+     2.621 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7974569         2    0        0       0      1        0    4     0       0    0
+        includ inform invent method network perform plural process provid
+7974569      2      0      1      2       0       0      1       0      0
+        receiv system wherein
+7974569      0      0       0
+
+
+-----------------------------  7974206  --------------------------------
+  PATENT:  7974206 
+  TITLE:   Method for establishing a secured connection corresponding SFC apparatus 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     13.16 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7974206         0    0        0       0      1        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7974206      2      0      0      3       0       0      0       0      2
+        receiv system wherein
+7974206      0      0       0
+
+
+-----------------------------  7974099  --------------------------------
+  PATENT:  7974099 
+  TITLE:   Apparatus and methods for thermal management of light emitting diodes 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     4.7 : process_form_compris_provid_apparatus 
+     16.89 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7974099         2    0        0       0      1        1    0     2       1    0
+        includ inform invent method network perform plural process provid
+7974099      5      0      0      0       0       0      1       0      0
+        receiv system wherein
+7974099      0      0       0
+
+
+-----------------------------  7971784  --------------------------------
+  PATENT:  7971784 
+  TITLE:   Sensing device with mode changes via nib switch 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     24.396 : data_devic_network_includ_comput 
+     11.989 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7971784         0    0        1       0      4        1    7     3       0    0
+        includ inform invent method network perform plural process provid
+7971784      1      0      0      0       0       0      0       0      0
+        receiv system wherein
+7971784      0      4       0
+
+
+-----------------------------  7971106  --------------------------------
+  PATENT:  7971106 
+  TITLE:   Method and apparatus for maintaining the status of objects in computer 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     30.245 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7971106         0    0        0       0      2        0    4     3       0    0
+        includ inform invent method network perform plural process provid
+7971106      0      0      0      0       5       0      2       1      0
+        receiv system wherein
+7971106      0      0       0
+
+
+-----------------------------  7971060  --------------------------------
+  PATENT:  7971060 
+  TITLE:   System and method for add-on services secondary authentication 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     21.385 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7971060         0    2        1       0      2        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7971060      0      0      1      1       0       0      0       0      2
+        receiv system wherein
+7971060      0      4       0
+
+
+-----------------------------  7971059  --------------------------------
+  PATENT:  7971059 
+  TITLE:   Secure channel for image transmission 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     14.076 : data_devic_network_includ_comput 
+     8.37 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7971059         0    0        0       0      2        0    2     5       1    0
+        includ inform invent method network perform plural process provid
+7971059      0      0      0      1       0       0      0       0      0
+        receiv system wherein
+7971059      0      2       0
+
+
+-----------------------------  7970875  --------------------------------
+  PATENT:  7970875 
+  TITLE:   System and method for computer originated audio file transmission 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     29.61 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7970875         0    0        4       0      1        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7970875      3      0      2      1       0       0      4       0      1
+        receiv system wherein
+7970875      0      1       1
+
+
+-----------------------------  7970807  --------------------------------
+  PATENT:  7970807 
+  TITLE:   Methods and apparatus for providing map locations in user applications 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     3.921 : process_form_compris_provid_apparatus 
+     29.941 : data_devic_network_includ_comput 
+     3.695 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7970807         0    2        0       1      2        0    3     5       0    0
+        includ inform invent method network perform plural process provid
+7970807      1      0      0      1       0       0      0       1      1
+        receiv system wherein
+7970807      5      0       0
+
+
+-----------------------------  7970709  --------------------------------
+  PATENT:  7970709 
+  TITLE:   Method and apparatus for client customization by executing software parts 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     8.225 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7970709         0    0        0       0      3        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7970709      0      0      0      0       0       0      2       0      0
+        receiv system wherein
+7970709      0      0       0
+
+
+-----------------------------  7970689  --------------------------------
+  PATENT:  7970689 
+  TITLE:   Single-period auctions network decentralized trading system and method 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     6.187 : data_devic_network_includ_comput 
+     10.729 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7970689         0    0        0       0      2        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7970689      0      1      0      2       3       0      0       0      0
+        receiv system wherein
+7970689      0      2       0
+
+
+-----------------------------  7970389  --------------------------------
+  PATENT:  7970389 
+  TITLE:   Presentation of sponsored content based on mobile transaction event 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0.291 : data_devic_network_includ_comput 
+     27.696 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7970389         0    2        4       0      1        0    2     0       0    0
+        includ inform invent method network perform plural process provid
+7970389      2      1      0      1       0       0      0       0      0
+        receiv system wherein
+7970389      1      1       2
+
+
+-----------------------------  7969922  --------------------------------
+  PATENT:  7969922 
+  TITLE:   Apparatus and methods for providing configurable task management of a 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     4.159 : process_form_compris_provid_apparatus 
+     12.052 : data_devic_network_includ_comput 
+     1.847 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7969922         1    0        0       0      1        2    1     3       0    0
+        includ inform invent method network perform plural process provid
+7969922      0      0      0      1       0       0      0       0      2
+        receiv system wherein
+7969922      0      0       0
+
+
+-----------------------------  7969917  --------------------------------
+  PATENT:  7969917 
+  TITLE:   Local area network of serial intelligent cells 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     21.879 : data_devic_network_includ_comput 
+     11.025 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7969917         0    0        2       0      2        2    1     1       0    0
+        includ inform invent method network perform plural process provid
+7969917      1      0      1      0       6       0      1       0      0
+        receiv system wherein
+7969917      0      2       0
+
+
+-----------------------------  7969733  --------------------------------
+  PATENT:  7969733 
+  TITLE:   Heat transfer system method and computer program product for use with 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     1.955 : data_devic_network_includ_comput 
+     9.708 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7969733         0    0        1       0      1        1    0     0       0    0
+        includ inform invent method network perform plural process provid
+7969733      0      0      0      1       0       0      0       0      2
+        receiv system wherein
+7969733      0      1       0
+
+
+-----------------------------  7969445  --------------------------------
+  PATENT:  7969445 
+  TITLE:   System method and computer program product for broadcasting write 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     16.45 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7969445         0    0        0       0      1        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7969445      1      0      0      1       0       0      3       0      1
+        receiv system wherein
+7969445      1      2       0
+
+
+-----------------------------  7966640  --------------------------------
+  PATENT:  7966640 
+  TITLE:   Signal processing apparatus and methods 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     1.264 : process_form_compris_provid_apparatus 
+     3.064 : data_devic_network_includ_comput 
+     35.096 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7966640         0    0        3       0      8        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7966640      0      2      0      0       1       0      1       1      0
+        receiv system wherein
+7966640      4      4       0
+
+
+-----------------------------  7966565  --------------------------------
+  PATENT:  7966565 
+  TITLE:   Method and system for sharing images over a communication network between 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     8.81 : data_devic_network_includ_comput 
+     14.884 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7966565         0    0        2       0      2        0    1     1       0    0
+        includ inform invent method network perform plural process provid
+7966565      0      1      0      1       2       0      2       0      1
+        receiv system wherein
+7966565      0      1       0
+
+
+-----------------------------  7966369  --------------------------------
+  PATENT:  7966369 
+  TITLE:   Method and apparatus for collecting and disseminating information over a 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     4.618 : process_form_compris_provid_apparatus 
+     9.227 : data_devic_network_includ_comput 
+     21.991 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7966369         1    0        0       1      1        0    0     4       1    0
+        includ inform invent method network perform plural process provid
+7966369      0     10      0      1       1       0      0       0      0
+        receiv system wherein
+7966369      0      0       2
+
+
+-----------------------------  7966334  --------------------------------
+  PATENT:  7966334 
+  TITLE:   Information retrieval systems and methods that use user-defined lists to 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     1.901 : process_form_compris_provid_apparatus 
+     6.063 : data_devic_network_includ_comput 
+     13.446 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7966334         0    1        0       0      1        0    3     0       1    1
+        includ inform invent method network perform plural process provid
+7966334      0      2      0      2       0       0      0       0      0
+        receiv system wherein
+7966334      0      2       0
+
+
+-----------------------------  7966224  --------------------------------
+  PATENT:  7966224 
+  TITLE:   System method and computer program product for generating a 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     16.45 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7966224         0    1        0       0      1        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7966224      0      2      0      1       0       0      1       0      2
+        receiv system wherein
+7966224      1      1       0
+
+
+-----------------------------  7966019  --------------------------------
+  PATENT:  7966019 
+  TITLE:   Apparatus method and computer program product providing radio link 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     9.012 : process_form_compris_provid_apparatus 
+     4.645 : data_devic_network_includ_comput 
+     7.674 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7966019         1    0        0       0      1        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7966019      1      1      0      1       1       0      0       5      0
+        receiv system wherein
+7966019      3      0       0
+
+
+-----------------------------  7965996  --------------------------------
+  PATENT:  7965996 
+  TITLE:   System method and computer program product for calculating a rate of an 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     6.58 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7965996         0    0        0       0      1        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7965996      0      0      0      1       0       0      0       0      1
+        receiv system wherein
+7965996      0      1       0
+
+
+-----------------------------  7965825  --------------------------------
+  PATENT:  7965825 
+  TITLE:   Methods and systems for transferring voice messages and faxes over a 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     4.514 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     12.555 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7965825         0    0        1       0      1        0    0     0       1    0
+        includ inform invent method network perform plural process provid
+7965825      0      0      0      0       0       0      0       3      0
+        receiv system wherein
+7965825      2      3       0
+
+
+-----------------------------  7965742  --------------------------------
+  PATENT:  7965742 
+  TITLE:   Methods and apparatus for enhancing wireless data network telephony 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     2.588 : process_form_compris_provid_apparatus 
+     12.851 : data_devic_network_includ_comput 
+     16.196 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7965742         1    3        3       0      1        0    2     0       0    0
+        includ inform invent method network perform plural process provid
+7965742      1      0      0      0       2       0      2       1      0
+        receiv system wherein
+7965742      0      3       0
+
+
+-----------------------------  7965735  --------------------------------
+  PATENT:  7965735 
+  TITLE:   Local area network of serial intelligent cells 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     21.879 : data_devic_network_includ_comput 
+     11.025 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7965735         0    0        2       0      2        2    1     1       0    0
+        includ inform invent method network perform plural process provid
+7965735      1      0      1      0       6       0      1       0      0
+        receiv system wherein
+7965735      0      2       0
+
+
+-----------------------------  7965654  --------------------------------
+  PATENT:  7965654 
+  TITLE:   System and method for designing a network 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     4.23 : process_form_compris_provid_apparatus 
+     21.211 : data_devic_network_includ_comput 
+     9.742 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7965654         0    2        1       1      3        1    0     1       1    0
+        includ inform invent method network perform plural process provid
+7965654      1      0      0      0       6       1      0       0      0
+        receiv system wherein
+7965654      0      2       1
+
+
+-----------------------------  7965645  --------------------------------
+  PATENT:  7965645 
+  TITLE:   Systems and methods for accessing voice transmissions 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     36.19 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7965645         0    0        5       0      4        0    0     0       3    0
+        includ inform invent method network perform plural process provid
+7965645      4      0      0      2       0       0      0       0      0
+        receiv system wherein
+7965645      1      3       0
+
+
+-----------------------------  7965504  --------------------------------
+  PATENT:  7965504 
+  TITLE:   Embedded computer chassis with redundant fan trays 
+  SEARCH:  abst/computer and telecommunications 
+    BASIS                THEMES 
+     0 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     14.805 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7965504         0    0        0       0      5        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7965504      2      0      0      0       0       0      0       0      0
+        receiv system wherein
+7965504      2      0       0
+
+
+-----------------------------  7979829  --------------------------------
+  PATENT:  7979829 
+  TITLE:   Integrated circuit cell library with cell-level process compensation 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     14.743 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979829         0    0        0       0      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7979829      0      0      0      0       0       3      0       8      0
+        receiv system wherein
+7979829      0      0       0
+
+
+-----------------------------  7979608  --------------------------------
+  PATENT:  7979608 
+  TITLE:   Lane to lane deskewing via non-data symbol processing for a serial point 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     6.704 : process_form_compris_provid_apparatus 
+     12.45 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979608         0    0        0       0      0        0    5     0       0    0
+        includ inform invent method network perform plural process provid
+7979608      1      0      0      0       0       1      0       4      0
+        receiv system wherein
+7979608      1      0       0
+
+
+-----------------------------  7979257  --------------------------------
+  PATENT:  7979257 
+  TITLE:   Apparatus and methods for performing process simulation using a hybrid 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     18.758 : process_form_compris_provid_apparatus 
+     1.788 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979257         1    0        0       0      0        0    1     0       0    1
+        includ inform invent method network perform plural process provid
+7979257      0      0      3      4       0       1      0       2      2
+        receiv system wherein
+7979257      0      0       0
+
+
+-----------------------------  7979036  --------------------------------
+  PATENT:  7979036 
+  TITLE:   Fully integrated ultra wideband transmitter circuits and systems 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     3.587 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     10.402 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979036         0    1        0       0      0        0    0     0       3    0
+        includ inform invent method network perform plural process provid
+7979036      2      0      0      0       0       0      0       1      1
+        receiv system wherein
+7979036      0      1       0
+
+
+-----------------------------  7979012  --------------------------------
+  PATENT:  7979012 
+  TITLE:   Image forming apparatus and image forming method 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     16.084 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979012         1    0        0       0      0        0    0     0       0    5
+        includ inform invent method network perform plural process provid
+7979012      1      0      0      0       0       1      0       2      1
+        receiv system wherein
+7979012      0      0       1
+
+
+-----------------------------  7979005  --------------------------------
+  PATENT:  7979005 
+  TITLE:   Electrically conductive pattern forming apparatus 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     13.367 : process_form_compris_provid_apparatus 
+     3.606 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7979005         3    0        0       0      0        0    0     2       0    2
+        includ inform invent method network perform plural process provid
+7979005      0      0      0      1       0       0      0       4      0
+        receiv system wherein
+7979005      0      0       0
+
+
+-----------------------------  7978963  --------------------------------
+  PATENT:  7978963 
+  TITLE:   Thermal processing apparatus 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     14.694 : process_form_compris_provid_apparatus 
+     3.623 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978963         2    0        0       0      0        1    0     0       0    0
+        includ inform invent method network perform plural process provid
+7978963      0      0      1      0       0       0      1       6      2
+        receiv system wherein
+7978963      0      0       0
+
+
+-----------------------------  7978814  --------------------------------
+  PATENT:  7978814 
+  TITLE:   High speed materials sorting using X-ray fluorescence 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     2.681 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     3.29 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978814         0    0        0       0      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7978814      0      0      0      0       0       1      0       1      0
+        receiv system wherein
+7978814      0      2       0
+
+
+-----------------------------  7978750  --------------------------------
+  PATENT:  7978750 
+  TITLE:   Microcontroller 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     1.473 : process_form_compris_provid_apparatus 
+     4.107 : data_devic_network_includ_comput 
+     7.555 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978750         0    0        0       0      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7978750      3      0      0      0       0       0      1       1      0
+        receiv system wherein
+7978750      2      1       0
+
+
+-----------------------------  7978505  --------------------------------
+  PATENT:  7978505 
+  TITLE:   Heat assisted switching and separated read-write MRAM 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     2.594 : process_form_compris_provid_apparatus 
+     7.232 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978505         0    0        0       0      0        0    4     0       0    1
+        includ inform invent method network perform plural process provid
+7978505      0      0      0      0       0       0      0       1      0
+        receiv system wherein
+7978505      0      0       0
+
+
+-----------------------------  7978457  --------------------------------
+  PATENT:  7978457 
+  TITLE:   All-solid-state electric double layer capacitor 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     5.361 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978457         0    0        0       1      0        0    0     0       1    0
+        includ inform invent method network perform plural process provid
+7978457      0      0      0      0       0       0      0       1      0
+        receiv system wherein
+7978457      0      0       1
+
+
+-----------------------------  7978442  --------------------------------
+  PATENT:  7978442 
+  TITLE:   CPP device with a plurality of metal oxide templates in a confining 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     5.35 : process_form_compris_provid_apparatus 
+     1.794 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978442         0    0        0       0      0        1    0     0       1    1
+        includ inform invent method network perform plural process provid
+7978442      0      0      0      0       0       1      0       1      0
+        receiv system wherein
+7978442      0      0       0
+
+
+-----------------------------  7978440  --------------------------------
+  PATENT:  7978440 
+  TITLE:   Seed/AFM combination for CCP GMR device 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     1.249 : process_form_compris_provid_apparatus 
+     3.68 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978440         0    0        0       0      0        0    0     2       0    0
+        includ inform invent method network perform plural process provid
+7978440      0      0      0      0       0       0      0       1      0
+        receiv system wherein
+7978440      0      0       0
+
+
+-----------------------------  7978431  --------------------------------
+  PATENT:  7978431 
+  TITLE:   Method to make a perpendicular magnetic recording head with a bottom side 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     12.063 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978431         0    0        0       0      0        0    0     0       0    7
+        includ inform invent method network perform plural process provid
+7978431      0      0      0      0       0       0      0       2      0
+        receiv system wherein
+7978431      0      0       0
+
+
+-----------------------------  7978397  --------------------------------
+  PATENT:  7978397 
+  TITLE:   Information display panel and method for manufacturing the same 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     6.701 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     4.935 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978397         0    0        0       0      0        0    0     0       0    3
+        includ inform invent method network perform plural process provid
+7978397      0      3      0      0       0       0      0       2      0
+        receiv system wherein
+7978397      0      0       0
+
+
+-----------------------------  7978276  --------------------------------
+  PATENT:  7978276 
+  TITLE:   Thin film transistor array panel for liquid crystal display and method of 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     12.058 : process_form_compris_provid_apparatus 
+     1.786 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978276         0    0        0       0      0        0    1     0       1    6
+        includ inform invent method network perform plural process provid
+7978276      0      0      0      1       0       0      0       1      0
+        receiv system wherein
+7978276      0      0       0
+
+
+-----------------------------  7978249  --------------------------------
+  PATENT:  7978249 
+  TITLE:   Image capturing device and auto-focus method for same 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     6.528 : process_form_compris_provid_apparatus 
+     17.233 : data_devic_network_includ_comput 
+     2.374 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978249         0    2        0       0      0        3    0     3       0    0
+        includ inform invent method network perform plural process provid
+7978249      1      1      0      0       0       1      0       3      0
+        receiv system wherein
+7978249      1      0       1
+
+
+-----------------------------  7978221  --------------------------------
+  PATENT:  7978221 
+  TITLE:   Method and apparatus for capturing an image 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     6.77 : process_form_compris_provid_apparatus 
+     12.363 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7978221         0    1        0       0      0        1    4     0       0    0
+        includ inform invent method network perform plural process provid
+7978221      1      0      0      2       0       0      0       3      0
+        receiv system wherein
+7978221      0      0       0
+
+
+-----------------------------  7977876  --------------------------------
+  PATENT:  7977876 
+  TITLE:   Light emitting device and method of manufacturing the same 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     6.909 : process_form_compris_provid_apparatus 
+     8.62 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977876         0    0        0       0      0        0    0     3       0    1
+        includ inform invent method network perform plural process provid
+7977876      1      0      0      0       0       0      1       3      1
+        receiv system wherein
+7977876      0      0       0
+
+
+-----------------------------  7977870  --------------------------------
+  PATENT:  7977870 
+  TITLE:   OLED pixel structure and method for manufacturing the same 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     3.533 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     2.244 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977870         0    0        0       0      0        0    0     0       0    1
+        includ inform invent method network perform plural process provid
+7977870      0      0      0      0       0       0      1       1      1
+        receiv system wherein
+7977870      0      0       0
+
+
+-----------------------------  7977865  --------------------------------
+  PATENT:  7977865 
+  TITLE:   Composite material material for light-emitting element light-emitting 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     12.063 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977865         0    0        0       0      0        0    0     0       0    3
+        includ inform invent method network perform plural process provid
+7977865      1      0      1      2       0       0      0       1      1
+        receiv system wherein
+7977865      0      0       0
+
+
+-----------------------------  7977797  --------------------------------
+  PATENT:  7977797 
+  TITLE:   Integrated circuit with contact region and multiple etch stop insulation 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     12.923 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     2.235 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977797         0    0        0       1      0        0    0     0       0    3
+        includ inform invent method network perform plural process provid
+7977797      0      0      1      1       0       1      0       2      1
+        receiv system wherein
+7977797      0      1       0
+
+
+-----------------------------  7977794  --------------------------------
+  PATENT:  7977794 
+  TITLE:   Aluminum metal line of a semiconductor device and method of fabricating 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     20.093 : process_form_compris_provid_apparatus 
+     1.795 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977794         0    0        0       0      0        0    0     1       0    5
+        includ inform invent method network perform plural process provid
+7977794      0      0      0      1       0       5      0       4      0
+        receiv system wherein
+7977794      0      0       0
+
+
+-----------------------------  7977787  --------------------------------
+  PATENT:  7977787 
+  TITLE:   Semiconductor device 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     12.131 : process_form_compris_provid_apparatus 
+     10.259 : data_devic_network_includ_comput 
+     6.88 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977787         2    1        0       0      0        0    0     5       0    3
+        includ inform invent method network perform plural process provid
+7977787      0      3      1      1       0       0      0       2      1
+        receiv system wherein
+7977787      0      0       0
+
+
+-----------------------------  7977759  --------------------------------
+  PATENT:  7977759 
+  TITLE:   Fingerprint sensor chip package method and the package structure thereof 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     13.403 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977759         0    0        0       0      0        0    0     0       1    3
+        includ inform invent method network perform plural process provid
+7977759      1      0      1      1       0       0      0       1      1
+        receiv system wherein
+7977759      0      0       1
+
+
+-----------------------------  7977742  --------------------------------
+  PATENT:  7977742 
+  TITLE:   Trench-gate MOSFET with capacitively depleted drift region 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     4.239 : process_form_compris_provid_apparatus 
+     6.827 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977742         0    0        0       1      0        1    0     2       0    1
+        includ inform invent method network perform plural process provid
+7977742      1      0      0      0       0       0      0       1      0
+        receiv system wherein
+7977742      0      0       0
+
+
+-----------------------------  7977706  --------------------------------
+  PATENT:  7977706 
+  TITLE:   Tri-gate field-effect transistors formed by aspect ratio trapping 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     5.701 : process_form_compris_provid_apparatus 
+     4.887 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977706         0    0        0       0      0        0    0     0       0    2
+        includ inform invent method network perform plural process provid
+7977706      4      0      0      0       0       0      0       1      0
+        receiv system wherein
+7977706      0      0       0
+
+
+-----------------------------  7977676  --------------------------------
+  PATENT:  7977676 
+  TITLE:   Thin film transistor array substrate with organic sol compound passivation 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     21.17 : process_form_compris_provid_apparatus 
+     2.144 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977676         0    0        0       2      0        0    1     0       1    7
+        includ inform invent method network perform plural process provid
+7977676      1      0      0      2       0       0      0       2      0
+        receiv system wherein
+7977676      0      0       1
+
+
+-----------------------------  7977526  --------------------------------
+  PATENT:  7977526 
+  TITLE:   Simulated countercurrent adsorptive separation process 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     4.021 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977526         0    0        0       1      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977526      0      0      0      0       0       0      0       2      0
+        receiv system wherein
+7977526      0      0       0
+
+
+-----------------------------  7977522  --------------------------------
+  PATENT:  7977522 
+  TITLE:   Process of producing olefins 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     5.361 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977522         0    0        0       0      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977522      0      0      1      0       0       0      0       2      1
+        receiv system wherein
+7977522      0      0       0
+
+
+-----------------------------  7977521  --------------------------------
+  PATENT:  7977521 
+  TITLE:   Oxygenate to olefins process involving supercritcal conditions 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     9.382 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977521         0    0        0       0      0        0    0     0       0    3
+        includ inform invent method network perform plural process provid
+7977521      0      0      2      1       0       0      0       1      0
+        receiv system wherein
+7977521      0      0       0
+
+
+-----------------------------  7977520  --------------------------------
+  PATENT:  7977520 
+  TITLE:   Method for the telomerization of non-cyclic olefins 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     6.701 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977520         0    0        0       0      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977520      0      0      0      0       0       0      0       4      0
+        receiv system wherein
+7977520      0      0       1
+
+
+-----------------------------  7977519  --------------------------------
+  PATENT:  7977519 
+  TITLE:   Production of aromatic hydrocarbons from methane 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     1.868 : process_form_compris_provid_apparatus 
+     1.079 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977519         0    0        0       0      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977519      1      0      0      0       0       0      0       1      0
+        receiv system wherein
+7977519      0      0       0
+
+
+-----------------------------  7977518  --------------------------------
+  PATENT:  7977518 
+  TITLE:   Transverse-flow pyrocatalytic reactor for conversion of waste plastic 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     6.039 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     2.458 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977518         0    0        0       1      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977518      1      0      0      0       0       0      0       2      0
+        receiv system wherein
+7977518      0      1       1
+
+
+-----------------------------  7977517  --------------------------------
+  PATENT:  7977517 
+  TITLE:   Synthesis of liquid fuels and chemicals from oxygenated hydrocarbons 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     3.533 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     2.244 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977517         0    0        0       0      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977517      0      0      0      0       0       0      0       2      1
+        receiv system wherein
+7977517      0      1       0
+
+
+-----------------------------  7977505  --------------------------------
+  PATENT:  7977505 
+  TITLE:   Optimized liquid-phase oxidation 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     8.042 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977505         1    0        0       0      0        0    0     0       1    1
+        includ inform invent method network perform plural process provid
+7977505      0      0      0      0       0       0      0       2      1
+        receiv system wherein
+7977505      0      0       0
+
+
+-----------------------------  7977504  --------------------------------
+  PATENT:  7977504 
+  TITLE:   Process for producing isocyanates and aromatic hydroxy compounds 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     14.743 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977504         0    0        0       0      0        0    0     0       2    1
+        includ inform invent method network perform plural process provid
+7977504      0      0      2      0       0       0      0       4      2
+        receiv system wherein
+7977504      0      0       0
+
+
+-----------------------------  7977502  --------------------------------
+  PATENT:  7977502 
+  TITLE:   Process for making and refining 3-pentenenitrile and for refining 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     24.125 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977502         0    0        0      12      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977502      0      0      1      0       0       0      0       2      1
+        receiv system wherein
+7977502      0      0       2
+
+
+-----------------------------  7977498  --------------------------------
+  PATENT:  7977498 
+  TITLE:   Reduction of sterols and other compounds from oils 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     4.021 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977498         0    0        0       1      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977498      0      0      0      0       0       0      0       2      0
+        receiv system wherein
+7977498      0      0       0
+
+
+-----------------------------  7977497  --------------------------------
+  PATENT:  7977497 
+  TITLE:   Inositolphospholipids and analogues phosphatidylinositol products and 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     9.382 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977497         0    0        0       1      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977497      2      0      1      0       0       0      0       1      2
+        receiv system wherein
+7977497      0      0       0
+
+
+-----------------------------  7977496  --------------------------------
+  PATENT:  7977496 
+  TITLE:   Process for producing nitroguanidine derivatives 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     8.034 : process_form_compris_provid_apparatus 
+     1.789 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977496         0    1        0       0      0        0    0     0       1    0
+        includ inform invent method network perform plural process provid
+7977496      0      0      0      0       0       0      0       1      0
+        receiv system wherein
+7977496      0      0       4
+
+
+-----------------------------  7977490  --------------------------------
+  PATENT:  7977490 
+  TITLE:   Process for producing thiazole compound 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     9.382 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977490         0    0        0       1      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977490      0      0      0      0       0       0      0       2      0
+        receiv system wherein
+7977490      0      0       4
+
+
+-----------------------------  7977480  --------------------------------
+  PATENT:  7977480 
+  TITLE:   Synthesis of paliperidone 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     5.361 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977480         0    0        0       1      0        0    0     0       0    1
+        includ inform invent method network perform plural process provid
+7977480      0      0      0      0       0       0      0       2      0
+        receiv system wherein
+7977480      0      0       0
+
+
+-----------------------------  7977454  --------------------------------
+  PATENT:  7977454 
+  TITLE:   Preparation of insulin conjugates 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     5.361 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977454         0    0        0       0      0        0    0     0       1    0
+        includ inform invent method network perform plural process provid
+7977454      0      0      1      0       0       0      0       1      0
+        receiv system wherein
+7977454      0      0       1
+
+
+-----------------------------  7977452  --------------------------------
+  PATENT:  7977452 
+  TITLE:   Janus dendrimers and dendrons 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     6.701 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977452         0    0        0       0      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977452      1      0      1      0       0       0      0       1      2
+        receiv system wherein
+7977452      0      0       0
+
+
+-----------------------------  7977444  --------------------------------
+  PATENT:  7977444 
+  TITLE:   Process for polymerizaing 1-hexene or higher alpha-olefins 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     6.562 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     1.816 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977444         0    0        0       1      0        0    0     0       0    1
+        includ inform invent method network perform plural process provid
+7977444      0      0      0      0       0       0      0       1      0
+        receiv system wherein
+7977444      0      1       2
+
+
+-----------------------------  7977438  --------------------------------
+  PATENT:  7977438 
+  TITLE:   Aqueous polymerization of fluorinated monomers using polymerization agent 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     2.681 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977438         0    0        0       0      0        0    0     0       0    1
+        includ inform invent method network perform plural process provid
+7977438      0      0      0      0       0       0      0       1      0
+        receiv system wherein
+7977438      0      0       0
+
+
+-----------------------------  7977437  --------------------------------
+  PATENT:  7977437 
+  TITLE:   Process for producing polydienes 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     4.021 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     1.645 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977437         0    0        0       1      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977437      0      0      0      0       0       0      0       2      0
+        receiv system wherein
+7977437      0      1       0
+
+
+-----------------------------  7977436  --------------------------------
+  PATENT:  7977436 
+  TITLE:   Process and apparatus for olefin polymerization in a fluidized bed reactor 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     6.701 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977436         2    0        0       0      0        0    0     0       1    0
+        includ inform invent method network perform plural process provid
+7977436      0      0      0      0       0       0      0       2      0
+        receiv system wherein
+7977436      0      0       0
+
+
+-----------------------------  7977435  --------------------------------
+  PATENT:  7977435 
+  TITLE:   Propylene polymer compositions and processes for making the same 
+  SEARCH:  abst/process and metal 
+    BASIS                THEMES 
+     9.382 : process_form_compris_provid_apparatus 
+     0 : data_devic_network_includ_comput 
+     0 : system_comput_inform_communic_provid 
+  TERMS: 
+        apparatus base communic compris comput configur data devic disclos form
+7977435         0    0        0       1      0        0    0     0       0    0
+        includ inform invent method network perform plural process provid
+7977435      0      0      0      1       0       0      0       2      3
+        receiv system wherein
+7977435      0      0       0

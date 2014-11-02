@@ -1,0 +1,11 @@
+TITLE: EXAMPLE3
+abst/payment and credit and card and mobile
+abst/social and network and transaction
+abst/loans and (payment or credit or schedule)
+abst/payment and systems
+abst/financial and service and (mobile or home or shopping)
+abst/(social and network) and (message or friend or search or associate or shopping)
+abst/(social and network) and (credit or card or photo or email)
+abst/iphone
+abst/andriod
+abst/tablet

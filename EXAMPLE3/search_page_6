@@ -1,0 +1,424 @@
+<HTML>
+<HEAD>
+<BASE TARGET="_top">
+<TITLE>Patent Database Search Results: abst/financial and service and (mobile or home or shopping) in US Patent Collection</TITLE>
+<script language="javascript">
+function unesc(){
+   srchForm.Srch1.value = unescape(srchForm.Srch1.value);
+   srchForm.Srch2.value = unescape(srchForm.Srch2.value);
+}
+function unesc2(){
+   srchForm2.Srch1.value = unescape(srchForm2.Srch1.value);
+   srchForm2.Srch2.value = unescape(srchForm2.Srch2.value);
+}
+</script>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<IMG SRC="/netaicon/PTO/patfthdr.gif" alt="[US Patent & Trademark Office, Patent Full Text and Image Database]">
+<br>
+<a name="top">
+<table>
+<tr><td>
+<a href="http://www.uspto.gov/patft/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0"></a>
+<a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0"></a>
+<A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0"></A>
+<a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0"></a>
+<A HREF="http://www.uspto.gov/patft/help/help.htm"><IMG BORDER="0"SRC="/netaicon/PTO/help.gif" ALT="[Help]"></A>
+</td></tr>
+</table>
+<A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=2&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&Page=Next&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<a href="#bottom"><img src="/netaicon/PTO/bottom.gif" alt="[Bottom]" align=middle border="0"></a>
+<A HREF="http://ebiz1.uspto.gov/vision-service/ShoppingCart_P/ShowShoppingCart?backUrl1=http%3A//patft1.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26p%3D1%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26f%3DS%26l%3D50%26d%3DPTXT%26Query%3Dabst%252Ffinancial%252Band%252Bservice%252Band%252B%2528mobile%252Bor%252Bhome%252Bor%252Bshopping%2529&backLabel1=Back%20to%20Document%3A%20abst/financial and service and (mobile or home or shopping)"><img src="/netaicon/PTO/cart.gif" align=middle border=0 alt="[View Shop
+ping Cart]"></A>
+</center>
+<p>
+<i>Searching US Patent Collection...</i><BR></p>
+<B>Results of Search in US Patent Collection db for:<BR> ((ABST/financial AND service) AND ((mobile OR home) OR shopping))</B>: 1094 patents.
+<BR><I>Hits <strong>1</strong> through <strong>50
+</strong> out of <strong>1094</strong>
+</I><p>
+
+<BR>
+<form name="srchForm" action="/netacgi/nph-Parser" method="GET" onsubmit="unesc()">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="OS" VALUE="abst/financial and service and (mobile or home or shopping)">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="((ABST/financial AND service) AND ((mobile OR home) OR shopping))">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE="abst/financial and service and (mobile or home or shopping)">
+
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="1094">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="((financial.ABTX. AND service) AND ((mobile OR home) OR shopping))">
+<INPUT TYPE=submit NAME=NextList2 VALUE="Next 50 Hits"><BR><BR>
+</FORM>
+<form name="srchForm2" action="/netacgi/nph-Parser" method="GET" onsubmit="unesc2()">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="((ABST/financial AND service) AND ((mobile OR home) OR shopping))">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE="abst/financial and service and (mobile or home or shopping)">
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="1094">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="((financial.ABTX. AND service) AND ((mobile OR home) OR shopping))">
+
+<INPUT TYPE=hidden name=StartAt VALUE="Jump To">
+<INPUT TYPE=submit name=StartAt VALUE="Jump To">
+&nbsp;
+<INPUT size=6 name="StartNum">
+</form>
+<BR><BR>
+<form action="/netacgi/nph-Parser" method="GET">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="((ABST/financial AND service) AND ((mobile OR home) OR shopping))">
+<INPUT type="hidden" name="Refine" value="Refine Search">
+<INPUT type="submit" name="Refine" value="Refine Search">
+<INPUT size=50 name="Query" value="abst/financial and service and (mobile or home or shopping)">
+</FORM>
+<TABLE><TR><TD></TD><TD>PAT. NO.</TD><TD></TD><TD>Title</TD></TR>
+<TR><TD valign=top>1</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,979,697</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Securing digital content system and method
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>2</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,979,386</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Method and system for performing search engine optimizations
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>3</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=3&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,979,348</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=3&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Payment identification code and payment system using the same
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>4</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,979,335</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Computerized method and system for score based evaluation of capital
+     market investment decisions and strategies
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>5</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=5&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,979,332</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=5&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Method of business valuation and data processing system
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>6</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=6&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,979,316</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=6&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>System and method for facilitating mobile commerce
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>7</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=7&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,979,306</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=7&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>System and method for redemption of awards by award program participants
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>8</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=8&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,975,911</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=8&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Banking system controlled by data bearing records
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>9</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=9&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,975,910</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=9&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Banking system controlled by data bearing records
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>10</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=10&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,974,893</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=10&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Systems and methods for providing ACH transaction notification and
+     facilitating ACH transaction disputes
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>11</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=11&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,970,795</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=11&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Data model development tool
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>12</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=12&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,970,704</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=12&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Wireless advisor support and data integration system
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>13</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=13&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,970,677</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=13&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Systems and methods for financial deposits by electronic message
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>14</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=14&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,970,673</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=14&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Method, apparatus, and computer program product for repository data
+     maximization
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>15</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=15&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,967,195</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=15&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Methods and systems for providing guaranteed merchant transactions
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>16</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=16&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,966,496</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=16&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>System and method for single sign on process for websites with multiple
+     applications and services
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>17</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=17&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,966,329</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=17&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Method and system for recognition and categorization of financial
+     transactions
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>18</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=18&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,966,246</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=18&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>User interface for correlation of analysis systems
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>19</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=19&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,966,245</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=19&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Financial instrument for a specific deliverable product on a daily
+     settlement basis
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>20</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=20&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,966,239</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=20&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Software-based commerce engine deployed in video game environment
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>21</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=21&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,966,234</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=21&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Structured finance performance analytics system
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>22</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=22&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,966,216</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=22&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Method and system to identify and target consumers based on their spending
+     behavior with respect to supplementary income
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>23</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=23&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,962,390</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=23&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Field 55 data relationships
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>24</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=24&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,962,389</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=24&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Method and system for providing financial functions
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>25</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=25&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,962,387</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=25&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>System and method for administering a fee structure for mutual fund shares
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>26</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=26&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,962,373</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=26&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>System and methods for providing financial account information over a
+     network
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>27</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,959,077</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Banking system controlled responsive to data bearing records
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>28</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=28&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,959,072</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=28&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Automated banking system controlled responsive to data bearing records
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>29</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=29&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,958,268</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=29&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Data security system and method adjunct to a browser, telecom or
+     encryption program
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>30</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=30&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,958,052</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=30&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Methods and systems for cardholder initiated transactions
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>31</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=31&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,958,049</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=31&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>System and method for obtaining customer bill information and facilitating
+     bill payment at biller websites
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>32</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=32&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,958,029</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=32&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Method for minimizing financial risk for wireless services
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>33</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=33&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,958,024</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=33&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Method and apparatus for processing sales transaction data
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>34</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=34&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,954,703</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=34&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Banking system controlled responsive to data bearing records
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>35</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=35&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,954,698</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=35&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>System and method for matching customers to financial products, services,
+     and incentives based on bank account transaction activity
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>36</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=36&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,953,663</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=36&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>System and method for financial instrument pre-qualification and offering
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>37</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=37&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,953,662</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=37&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Global method and system for providing enhanced transactional
+     functionality through a customer terminal
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>38</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=38&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,953,658</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=38&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Systems and methods for processing credit card transactions that exceed a
+     credit limit
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>39</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=39&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,953,650</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=39&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Medical diagnostic system acquisition and financing method and apparatus
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>40</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=40&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,953,634</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=40&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Direct currency conversion
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>41</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=41&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,950,575</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=41&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Method and system for performing money transfer transactions
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>42</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=42&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,949,609</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=42&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>System for secure online selling, buying and bill pay in an electronic
+     commerce setting
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>43</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=43&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,949,605</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=43&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Secure electronic commerce
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>44</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=44&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,949,603</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=44&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Secure online transaction system and method
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>45</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=45&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,949,587</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=45&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Systems and methods for financial deposits by electronic message
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>46</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=46&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,949,579</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=46&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>System and method for associating financial transaction data with a user's
+     project data
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>47</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=47&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,949,546</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=47&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Method and system for providing family medical history data
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>48</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=48&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,949,543</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=48&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Methods, systems, and computer program products for promoting healthcare
+     information technologies to card members
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>49</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=49&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,946,922</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=49&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Advertising funded gaming system
+</A></TD>
+<DOCS: 1094>
+<TR><TD valign=top>50</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=50&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>7,946,480</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=50&f=G&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))>Transaction dependent on ATM receiving user input of the security code
+     sent during transaction to account'S designated mobile phone
+</A></TD>
+</TABLE><HR><br>
+<center>
+<table>
+<tr><td><A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=2&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&S1=((financial.ABTX.+AND+service)+AND+((mobile+OR+home)+OR+shopping))&Page=Next&OS=abst/financial+and+service+and+(mobile+or+home+or+shopping)&RS=((ABST/financial+AND+service)+AND+((mobile+OR+home)+OR+shopping))><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<a name="bottom"><a href="#top"><img src="/netaicon/PTO/top.gif" alt="[Top]" border="0" align=middle></a>
+<A HREF="http://ebiz1.uspto.gov/vision-service/ShoppingCart_P/ShowShoppingCart?backUrl1=http%3A//patft1.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26p%3D1%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26f%3DS%26l%3D50%26d%3DPTXT%26Query%3Dabst%252Ffinancial%252Band%252Bservice%252Band%252B%2528mobile%252Bor%252Bhome%252Bor%252Bshopping%2529&backLabel1=Back%20to%20Document%3A%20abst/financial and service and (mobile or home or shopping)"><img border=0 src="/netaicon/PTO/cart.gif" alt="[View Shopping Cart]" b
+order = "0" align=middle></A>
+</td></tr>
+</table>
+<a href="http://www.uspto.gov/patft/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign=baseline></a>
+<a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign=baseline></a>
+<A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0" valign=baseline></A>
+<a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign=baseline></a>
+<A HREF="http://www.uspto.gov/patft/help/help.htm"><img border="0" src="/netaicon/PTO/help.gif" ALT="[Help]" border="0" valign=baseline></A>
+<!-- <IMG border=0 src=/netaicon/PTO/titlebar.gif> -->
+</center>
+</HTML>

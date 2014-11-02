@@ -1,0 +1,415 @@
+<HTML>
+<HEAD>
+<BASE TARGET="_top">
+<TITLE>Patent Database Search Results: abst/loans and (payment or credit or schedule) in US Patent Collection</TITLE>
+<script language="javascript">
+function unesc(){
+   srchForm.Srch1.value = unescape(srchForm.Srch1.value);
+   srchForm.Srch2.value = unescape(srchForm.Srch2.value);
+}
+function unesc2(){
+   srchForm2.Srch1.value = unescape(srchForm2.Srch1.value);
+   srchForm2.Srch2.value = unescape(srchForm2.Srch2.value);
+}
+</script>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<IMG SRC="/netaicon/PTO/patfthdr.gif" alt="[US Patent & Trademark Office, Patent Full Text and Image Database]">
+<br>
+<a name="top">
+<table>
+<tr><td>
+<a href="http://www.uspto.gov/patft/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0"></a>
+<a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0"></a>
+<A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0"></A>
+<a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0"></a>
+<A HREF="http://www.uspto.gov/patft/help/help.htm"><IMG BORDER="0"SRC="/netaicon/PTO/help.gif" ALT="[Help]"></A>
+</td></tr>
+</table>
+<A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=2&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&Page=Next&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<a href="#bottom"><img src="/netaicon/PTO/bottom.gif" alt="[Bottom]" align=middle border="0"></a>
+<A HREF="http://ebiz1.uspto.gov/vision-service/ShoppingCart_P/ShowShoppingCart?backUrl1=http%3A//patft1.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26p%3D1%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26f%3DS%26l%3D50%26d%3DPTXT%26Query%3Dabst%252Floans%252Band%252B%2528payment%252Bor%252Bcredit%252Bor%252Bschedule%2529&backLabel1=Back%20to%20Document%3A%20abst/loans and (payment or credit or schedule)"><img src="/netaicon/PTO/cart.gif" align=middle border=0 alt="[View Shop
+ping Cart]"></A>
+</center>
+<p>
+<i>Searching US Patent Collection...</i><BR></p>
+<B>Results of Search in US Patent Collection db for:<BR> (ABST/loans AND ((payment OR credit) OR schedule))</B>: 120 patents.
+<BR><I>Hits <strong>1</strong> through <strong>50
+</strong> out of <strong>120</strong>
+</I><p>
+
+<BR>
+<form name="srchForm" action="/netacgi/nph-Parser" method="GET" onsubmit="unesc()">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="OS" VALUE="abst/loans and (payment or credit or schedule)">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(ABST/loans AND ((payment OR credit) OR schedule))">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE="abst/loans and (payment or credit or schedule)">
+
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="120">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="(loans.ABTX. AND ((payment OR credit) OR schedule))">
+<INPUT TYPE=submit NAME=NextList2 VALUE="Next 50 Hits"><BR><BR>
+</FORM>
+<form name="srchForm2" action="/netacgi/nph-Parser" method="GET" onsubmit="unesc2()">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(ABST/loans AND ((payment OR credit) OR schedule))">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE="abst/loans and (payment or credit or schedule)">
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="120">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="(loans.ABTX. AND ((payment OR credit) OR schedule))">
+
+<INPUT TYPE=hidden name=StartAt VALUE="Jump To">
+<INPUT TYPE=submit name=StartAt VALUE="Jump To">
+&nbsp;
+<INPUT size=6 name="StartNum">
+</form>
+<BR><BR>
+<form action="/netacgi/nph-Parser" method="GET">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(ABST/loans AND ((payment OR credit) OR schedule))">
+<INPUT type="hidden" name="Refine" value="Refine Search">
+<INPUT type="submit" name="Refine" value="Refine Search">
+<INPUT size=50 name="Query" value="abst/loans and (payment or credit or schedule)">
+</FORM>
+<TABLE><TR><TD></TD><TD>PAT. NO.</TD><TD></TD><TD>Title</TD></TR>
+<TR><TD valign=top>1</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,979,349</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Systems and methods for adjusting crediting limits to facilitate
+     transactions
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>2</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,979,346</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>System and method for pricing loans in the secondary mortgage market
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>3</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=3&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,974,918</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=3&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Credit risk framework
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>4</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,966,238</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Multi-level leverage account structure
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>5</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=5&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,962,406</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=5&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Systems and methods for facilitating transactions
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>6</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=6&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,962,404</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=6&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Systems and methods for determining loan opportunities
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>7</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=7&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,953,659</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=7&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Multiple loan payment option sales tool
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>8</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=8&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,942,316</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=8&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Online purchasing system supporting buyer affordability screening
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>9</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=9&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,938,316</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=9&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Online purchasing system supporting sellers with affordability screening
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>10</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=10&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,925,585</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=10&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Systems and methods for facilitating transactions with different account
+     issuers
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>11</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=11&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,925,580</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=11&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Mortgage loan product
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>12</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=12&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,921,045</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=12&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Method for offering insurance products without a complete audit of a
+     potential purchaser
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>13</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=13&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,912,770</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=13&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Method and apparatus for consumer interaction based on spend capacity
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>14</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=14&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,908,214</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=14&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Systems and methods for adjusting loan amounts to facilitate transactions
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>15</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=15&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,904,385</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=15&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Systems and methods for facilitating budgeting transactions
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>16</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=16&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,904,381</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=16&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Systems, methods, and computer products for optimizing the selection of
+     collateral
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>17</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=17&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,899,741</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=17&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Loss impact tracking system and method
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>18</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=18&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,885,889</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=18&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>System and method for processing data pertaining to financial assets
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>19</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=19&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,873,568</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=19&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Loan management account
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>20</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=20&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,873,556</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=20&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>System and method for margin loan securitization
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>21</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=21&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,860,787</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=21&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>System and method for modifying attribute data pertaining to financial     assets in a data processing system
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>22</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=22&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,856,397</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=22&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>System and method for creating financial assets
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>23</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=23&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,853,518</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=23&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Method and apparatus for advanced mortgage diagnostic analytics
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>24</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=24&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,849,009</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=24&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Methods and apparatus for mapping sources and uses of consumer funds
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>25</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=25&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,835,984</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=25&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Intercompany loan management system
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>26</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=26&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,822,681</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=26&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Financial collaboration networks
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>27</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,809,633</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>System and method for pricing loans in the secondary mortgage market
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>28</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=28&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,805,364</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=28&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Multiple loan payment option sales tool
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>29</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=29&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,797,231</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=29&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Methods and systems for facilitating one-time consumer loans arising from
+     declined credit card transactions
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>30</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=30&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,797,218</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=30&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Method of compensating an employee
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>31</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=31&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,797,217</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=31&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>System for managing the total risk exposure for a portfolio of loans
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>32</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=32&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,797,214</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=32&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Financing and securitization structure for a portfolio of loans
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>33</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=33&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,792,811</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=33&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Intelligent search with guiding info
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>34</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=34&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,792,742</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=34&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Risk-based reference pool capital reducing systems and methods
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>35</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=35&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,788,171</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=35&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Products and processes for managing revenue sharing
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>36</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=36&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,783,562</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=36&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Credit risk managing loan pools
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>37</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=37&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,778,904</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=37&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Method for providing an affordable housing collateralization pool
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>38</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=38&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,774,253</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=38&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Margin reserve in lending
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>39</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=39&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,756,779</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=39&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>System and method for determining compliance with a delegated underwriting
+     and servicing agreement
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>40</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=40&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,742,981</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=40&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Mortgage loan commitment system and method
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>41</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=41&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,742,980</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=41&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Automated loan approval system
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>42</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=42&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,739,189</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=42&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Method and system for detecting loan fraud
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>43</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=43&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,739,171</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=43&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Method of securitizing a portfolio of at least 30% distressed commercial
+     loans
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>44</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=44&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,729,983</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=44&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Credit risk managing loan pools
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>45</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=45&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,725,386</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=45&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Method for offering representation and warranty insurance for mortgage     loans
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>46</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=46&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,707,103</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=46&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>System and method for rating lenders
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>47</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=47&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,707,102</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=47&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Method and apparatus for monitoring the collateral risk analysis commodity
+     lenders
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>48</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=48&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,702,586</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=48&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Reserve account mortgage method and system
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>49</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=49&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,702,580</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=49&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>System and method for mortgage loan pricing, sale and funding
+</A></TD>
+<DOCS: 120>
+<TR><TD valign=top>50</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=50&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>7,698,214</A></TD>
+<TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=50&f=G&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))>Systems and methods of trading closed loans, debt, and other financial     obligations
+</A></TD>
+</TABLE><HR><br>
+<center>
+<table>
+<tr><td><A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=2&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&S1=(loans.ABTX.+AND+((payment+OR+credit)+OR+schedule))&Page=Next&OS=abst/loans+and+(payment+or+credit+or+schedule)&RS=(ABST/loans+AND+((payment+OR+credit)+OR+schedule))><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<a name="bottom"><a href="#top"><img src="/netaicon/PTO/top.gif" alt="[Top]" border="0" align=middle></a>
+<A HREF="http://ebiz1.uspto.gov/vision-service/ShoppingCart_P/ShowShoppingCart?backUrl1=http%3A//patft1.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26p%3D1%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26f%3DS%26l%3D50%26d%3DPTXT%26Query%3Dabst%252Floans%252Band%252B%2528payment%252Bor%252Bcredit%252Bor%252Bschedule%2529&backLabel1=Back%20to%20Document%3A%20abst/loans and (payment or credit or schedule)"><img border=0 src="/netaicon/PTO/cart.gif" alt="[View Shopping Cart]" b
+order = "0" align=middle></A>
+</td></tr>
+</table>
+<a href="http://www.uspto.gov/patft/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign=baseline></a>
+<a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign=baseline></a>
+<A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0" valign=baseline></A>
+<a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign=baseline></a>
+<A HREF="http://www.uspto.gov/patft/help/help.htm"><img border="0" src="/netaicon/PTO/help.gif" ALT="[Help]" border="0" valign=baseline></A>
+<!-- <IMG border=0 src=/netaicon/PTO/titlebar.gif> -->
+</center>
+</HTML>
