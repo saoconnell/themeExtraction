@@ -83,6 +83,7 @@ I created a few examples to see how the process performs.
 Looked up specific companies and technology in a specific area, and
 added a social network and internet retailer to the mix.
 
+```
  TITLE: EXAMPLE1
  an/IBM and abst/data
  an/Facebook
@@ -90,19 +91,21 @@ added a social network and internet retailer to the mix.
  an/EMC and abst/virtual and abst/data
  an/NetApp and abst/virtual and abst/data
  an/Hewlett-Packard and abst/data and abst/virtual
-
+```
 
 ### EXAMPLE_2_unrelated_search.txt
  Search on seemingly unrelated topics
 
+```
  TITLE: EXAMPLE2
  abst/computer and telecommunications
  abst/process and metal
-
+```
 
 ### EXAMPLE_3_whatsHot_search.txt
  A collection of “hot” topics/technology/trends
 
+```
  TITLE: EXAMPLE3
  abst/payment and credit and card and mobile
  abst/social and network and transaction
@@ -115,6 +118,6 @@ added a social network and internet retailer to the mix.
  abst/iphone
  abst/andriod
  abst/tablet
-
+```
 
 
