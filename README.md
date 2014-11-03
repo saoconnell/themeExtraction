@@ -55,7 +55,7 @@ keywords, not unlike other unsupervised learning techniques used to
 “derive” intelligence from seemingly unrelated data.
 
 
-## Examples:
+## Description:
 
 themeExtraction.R contains all the code to search, retrieve, and parse
 patent data, and perform the data mining and NMF. Also generates the
@@ -76,45 +76,45 @@ numThemes <- 3
 res <- nmf(dtm.trim.m, numThemes)
 
 
-EXAMPLES:
+## EXAMPLES:
 I created a few examples to see how the process performs.
 
-EXAMPLE_1_companies.txt: search patterns
+### EXAMPLE_1_companies.txt: search patterns
 Looked up specific companies and technology in a specific area, and
 added a social network and internet retailer to the mix.
 
-TITLE: EXAMPLE1
-an/IBM and abst/data
-an/Facebook
-an/Amazon and abst/data
-an/EMC and abst/virtual and abst/data
-an/NetApp and abst/virtual and abst/data
-an/Hewlett-Packard and abst/data and abst/virtual
+ TITLE: EXAMPLE1
+ an/IBM and abst/data
+ an/Facebook
+ an/Amazon and abst/data
+ an/EMC and abst/virtual and abst/data
+ an/NetApp and abst/virtual and abst/data
+ an/Hewlett-Packard and abst/data and abst/virtual
 
 
-EXAMPLE_2_unrelated_search.txt
-Search on seemingly unrelated topics
+### EXAMPLE_2_unrelated_search.txt
+ Search on seemingly unrelated topics
 
-TITLE: EXAMPLE2
-abst/computer and telecommunications
-abst/process and metal
+ TITLE: EXAMPLE2
+ abst/computer and telecommunications
+ abst/process and metal
 
 
-EXAMPLE_3_whatsHot_search.txt
-A collection of “hot” topics/technology/trends
+### EXAMPLE_3_whatsHot_search.txt
+ A collection of “hot” topics/technology/trends
 
-TITLE: EXAMPLE3
-abst/payment and credit and card and mobile
-abst/social and network and transaction
-abst/loans and (payment or credit or schedule)
-abst/payment and systems
-abst/financial and service and (mobile or home or shopping)
-abst/(social and network) and (message or friend or search or
-associate or shopping)
-abst/(social and network) and (credit or card or photo or email)
-abst/iphone
-abst/andriod
-abst/tablet
+ TITLE: EXAMPLE3
+ abst/payment and credit and card and mobile
+ abst/social and network and transaction
+ abst/loans and (payment or credit or schedule)
+ abst/payment and systems
+ abst/financial and service and (mobile or home or shopping)
+ abst/(social and network) and (message or friend or search or
+ associate or shopping)
+ abst/(social and network) and (credit or card or photo or email)
+ abst/iphone
+ abst/andriod
+ abst/tablet
 
 
 
