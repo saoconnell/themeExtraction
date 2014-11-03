@@ -65,12 +65,13 @@ To run the code create a file with any collection of valid patent
 full-text searches or use one of the examples as a template. Then
 replace the SEARCH_INPUT value, near the top of the code:
 
-SEARCH_INPUT <- "EXAMPLE_2_unrelated_search.txt"
+ SEARCH_INPUT <- "EXAMPLE_2_unrelated_search.txt"
 
 Also, before you run NMF, you need to tell nmf how many themes you are
 looking for:
 
-## SELECT THE NUMBER OF THEMES TO EXTRACT
+ SELECT THE NUMBER OF THEMES TO EXTRACT
+
 numThemes <- 3
 res <- nmf(dtm.trim.m, numThemes)
 
