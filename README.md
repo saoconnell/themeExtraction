@@ -1,7 +1,7 @@
 themeExtraction
 ================
 
-** THE CODE NO LONGER WORKS AS THE PATENT DB SEARCH HAS CHANGED **
+## Background
 
 The following is a program I wrote for an interview with Quid (Quid.com) in 2011.
 During the interview I was asked how I would relate information found in the US patent DB with 
@@ -17,8 +17,22 @@ with the Gephi generated graph visualization. The formatting of each visual was 
 I forwarded them the program and the analysis, and had another interview, however
 I did not get the job.
 
+## Files/Directories
 
-ThemeExtraction.R:
+File/Directories                | Description
+------------------------------- | -----------------------------------------------
+EXAMPLE1                        | Output from search EXAMPLE1
+EXAMPLE2                        | Output from search EXAMPLE2
+EXAMPLE3                        | Output from search EXAMPLE3
+EXAMPLE_1_companies_search.txt  | Search criteria for EXAMPLE1, search includes top technology companies to see if there are any relationships between the technologies that being patented by these companies.
+EXAMPLE_2_unrelated_search.txt  | Search criteria for EXAMPLE2, search for unrelated items, a negative case to see how the algorithm pulls themes from unrelated patents.
+EXAMPLE_3_whatsHot_search.txt   | Search criteria for EXAMPLE3, keywords include the top technologies and trends at the time to see what was being invented that is addressing current trends.
+README.md                       | This file.
+themeExtraction.R               | Code to search and extract patents, create document to text matrix, non-negative matrix factorization, format data for Gephi, and create a detailed report of the results.  ** THE CODE NO LONGER WORKS AS THE PATENT DB SEARCH HAS CHANGED **
+
+
+
+## ThemeExtraction.R:
 
 The following application searches the patent full text database using a collection of keywords. 
 
@@ -41,10 +55,7 @@ keywords, not unlike other unsupervised learning techniques used to
 “derive” intelligence from seemingly unrelated data.
 
 
-CODE:
-
-folder: themeExtraction (contains the code and all the artifacts from
-each example)
+## Examples:
 
 themeExtraction.R contains all the code to search, retrieve, and parse
 patent data, and perform the data mining and NMF. Also generates the
@@ -106,13 +117,3 @@ abst/tablet
 
 
 
-File/Directories                | Description
-------------------------------- | -----------------------------------------------
-EXAMPLE1                        | Output from search EXAMPLE1
-EXAMPLE2                        | Output from search EXAMPLE2
-EXAMPLE3                        | Output from search EXAMPLE3
-EXAMPLE_1_companies_search.txt  | Search criteria for EXAMPLE1, search includes top technology companies to see if there are any relationships between the technologies that being patented by these companies.
-EXAMPLE_2_unrelated_search.txt  | Search criteria for EXAMPLE2, search for unrelated items, a negative case to see how the algorithm pulls themes from unrelated patents.
-EXAMPLE_3_whatsHot_search.txt   | Search criteria for EXAMPLE3, keywords include the top technologies and trends at the time to see what was being invented that is addressing current trends.
-README.md                       | This file.
-themeExtraction.R               | Code to search and extract patents, create document to text matrix, non-negative matrix factorization, format data for Gephi, and create a detailed report of the results.
